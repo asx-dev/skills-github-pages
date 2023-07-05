@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
+# ASX Mobile Engineer - Android / IOS Engineer
 
-# ASX Mobile Engineer
 Something is happening with AI
